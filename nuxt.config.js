@@ -45,10 +45,5 @@ export default {
   build: {},
   buildDir: 'nuxt-dist',
   ssr: true,
-  target: 'static',
-  generate: {
-    exclude: [
-      /^\/admin/ // path starts with /admin
-    ]
-  }
+  target: 'static'
 }
