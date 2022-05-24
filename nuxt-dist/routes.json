@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fruits",
+    "path": "/fruits",
+    "component": "C:\\\\Users\\\\godgiev\\\\Desktop\\\\test-app\\\\pages\\\\fruits.vue",
+    "chunkName": "pages/fruits",
+    "_name": "_516e64e6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\godgiev\\\\Desktop\\\\test-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_269a4414"
+  }
+]
